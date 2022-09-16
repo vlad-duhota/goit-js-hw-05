@@ -8,11 +8,7 @@ class Car {
 
 
     static getSpecs(car){
-        console.log('maxSpeed - ' + car.maxSpeed);
-        console.log('speed - ' + car.speed);
-        console.log('isOn - ' + car.isOn);
-        console.log('distance - ' + car.distance);
-        console.log('price - ' + car.#price); 
+        console.log('maxSpeed - ' + car.maxSpeed + ', ' + 'speed - ' + car.speed + ', ' + 'isOn - ' + car.isOn + ', ' + 'distance - ' + car.distance + ', ' + 'price - ' + car.#price);
     }
 
   
